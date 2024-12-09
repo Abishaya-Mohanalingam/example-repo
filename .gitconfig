@@ -1,0 +1,13 @@
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[user]
+	name = Abishaya-Mohanalingam
+	email = abishayamohanalingam@gmail.com
+	signingkey = 264D99E334E24B24
+[commit]
+	gppsign = true
+[tag]
+	gpgsign = true

@@ -1,0 +1,116 @@
+00:00:00.005872 main     VirtualBox COM Server 7.0.20 r163906 win.amd64 (Jul 10 2024 14:54:08) release log
+00:00:00.005877 main     Log opened 2024-08-31T04:05:27.331744700Z
+00:00:00.005878 main     Build Type: release
+00:00:00.005886 main     OS Product: Windows 11
+00:00:00.005887 main     OS Release: 10.0.22631
+00:00:00.005887 main     OS Service Pack: 
+00:00:00.049285 main     DMI Product Name: Nitro AN515-58
+00:00:00.072153 main     DMI Product Version: V2.09
+00:00:00.072202 main     Firmware type: UEFI
+00:00:00.072973 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.073045 main     Host RAM: 16088MB (15.7GB) total, 7237MB (7.0GB) available
+00:00:00.073055 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.073056 main     Process ID: 3940
+00:00:00.073057 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.216458          VirtualBox: object creation starts
+00:00:00.217001          Home directory: 'C:\Users\abish\.VirtualBox'
+00:00:00.217212          Installed Drivers:
+00:00:00.228443            C:\Windows\system32\DRIVERS\VBoxSup.sys (Version: 7.0.20.13906)
+00:00:00.229192            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.20.13906)
+00:00:00.229871            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.20.13906)
+00:00:00.230515            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.20.13906)
+00:00:00.231153          Loading settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.236981          usbLibGetDevices: Starting USB device enumeration
+00:00:00.288388          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2b6b23d1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:00:00.288734          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2b6b23d1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.295171          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.295247          USB: Unknown USB device detected (idVendor: 0x0408, idProduct: 0x4035)
+00:00:00.295332          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.369050          HostDnsMonitor: initializing
+00:00:00.386253          HostDnsMonitor: updating information
+00:00:00.386306          HostDnsMonitor: old information
+00:00:00.386308            no server entries
+00:00:00.386309            no domain set
+00:00:00.386310            no search string entries
+00:00:00.386311          HostDnsMonitor: new information
+00:00:00.386312            server 1: 10.128.128.128
+00:00:00.386314            no domain set
+00:00:00.386314            no search string entries
+00:00:00.392040          VD: VDInit finished with VINF_SUCCESS
+00:00:00.394724          VirtualBox: object created
+00:00:00.507140          Saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.509658          Finished saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml"
+00:00:00.511133          Saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.513838          Finished saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml"
+00:00:00.514206          Saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.523828          Finished saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml"
+00:03:25.107702 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:03:25.156584 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2b6b23d1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:03:25.157203 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2b6b23d1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:03:25.158684 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:06:06.901182 createBase Saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:06.909520 createBase Finished saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml"
+00:06:06.935025          Saving settings file "C:\Users\abish\VirtualBox VMs\Abishaya\Abishaya.vbox" with version "1.19-windows"
+00:06:06.936830          Finished saving settings file "C:\Users\abish\VirtualBox VMs\Abishaya\Abishaya.vbox"
+00:06:06.936993          Saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:06.940214          Finished saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml"
+00:06:06.946296          Saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:06.949007          Finished saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml"
+00:06:06.950422          Saving settings file "C:\Users\abish\VirtualBox VMs\Abishaya\Abishaya.vbox" with version "1.19-windows"
+00:06:06.952634          Finished saving settings file "C:\Users\abish\VirtualBox VMs\Abishaya\Abishaya.vbox"
+00:06:06.980130          Saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:06.984436          Finished saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml"
+00:06:07.345288          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:06:57.769679          Launched VM: 983029648 pid: 21884 (0x557c) frontend: GUI/Qt name: Abishaya
+00:06:57.797513          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:07:07.207165          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:07:08.443858          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:07:19.281378          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:07:19.615388          Saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:19.619101          Finished saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml"
+00:07:19.623396          Saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:19.627376          Finished saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml"
+00:07:19.628730          Saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:19.632003          Finished saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml"
+00:07:19.640674          Saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:19.643462          Finished saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml"
+00:07:19.644284          Saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:19.647695          Finished saving settings file "C:\Users\abish\.VirtualBox\VirtualBox.xml"
+00:07:20.235999          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:07:20.241022          Saving settings file "C:\Users\abish\VirtualBox VMs\Abishaya\Abishaya.vbox" with version "1.19-windows"
+00:07:20.247395          Finished saving settings file "C:\Users\abish\VirtualBox VMs\Abishaya\Abishaya.vbox"
+00:07:20.256020          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:07:20.272138          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:07:23.961316          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:07:24.024288          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:07:27.046231          Saving settings file "C:\Users\abish\VirtualBox VMs\Abishaya\Abishaya.vbox" with version "1.19-windows"
+00:07:27.056353          Finished saving settings file "C:\Users\abish\VirtualBox VMs\Abishaya\Abishaya.vbox"
+00:07:27.067717          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:24:33.652107 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:24:33.682870 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2b6b23d1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:24:33.682967 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2b6b23d1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:24:33.683085 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:24:34.553247 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:24:34.583215 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2b6b23d1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:24:34.583285 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2b6b23d1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:24:34.583422 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:32:21.198361 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:32:21.240318 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2b6b23d1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:32:21.241022 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2b6b23d1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:32:21.241743 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:39:20.466308 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:39:20.496966 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2b6b23d1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:39:20.497187 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&2b6b23d1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:39:20.497522 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:55:57.433478          Saving settings file "C:\Users\abish\VirtualBox VMs\Abishaya\Abishaya.vbox" with version "1.19-windows"
+00:55:57.444313          Finished saving settings file "C:\Users\abish\VirtualBox VMs\Abishaya\Abishaya.vbox"
+00:56:10.852137          Saving settings file "C:\Users\abish\VirtualBox VMs\Abishaya\Abishaya.vbox" with version "1.19-windows"
+00:56:10.860619          Finished saving settings file "C:\Users\abish\VirtualBox VMs\Abishaya\Abishaya.vbox"
+00:56:10.941129 SaveState Saving settings file "C:\Users\abish\VirtualBox VMs\Abishaya\Abishaya.vbox" with version "1.19-windows"
+00:56:10.948729 SaveState Finished saving settings file "C:\Users\abish\VirtualBox VMs\Abishaya\Abishaya.vbox"
+00:56:17.418776 main     VirtualBox: object deletion starts
+00:56:17.418977 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\abish\VirtualBox VMs\Abishaya\Abishaya.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:56:17.429583 main     HostDnsMonitor: shutting down ...
+00:56:17.430096 main     HostDnsMonitor: shut down
+00:56:17.444529 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:56:17.445550 main     VirtualBox: object deleted

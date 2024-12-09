@@ -1,0 +1,24 @@
+00:00:00.726669 VirtualBox GUI VM Selector Window 7.0.20 r163906 win.amd64 (Jul 10 2024 14:54:08) release log
+00:00:00.726674 Log opened 2024-08-31T04:05:27.786962800Z
+00:00:00.726675 Build Type: release
+00:00:00.726680 OS Product: Windows 11
+00:00:00.726682 OS Release: 10.0.22631
+00:00:00.726682 OS Service Pack: 
+00:00:00.755216 DMI Product Name: Nitro AN515-58
+00:00:00.765721 DMI Product Version: V2.09
+00:00:00.765768 Firmware type: UEFI
+00:00:00.766257 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.766289 Host RAM: 16088MB (15.7GB) total, 7236MB (7.0GB) available
+00:00:00.766295 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.766296 Process ID: 26568
+00:00:00.766296 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.766806 Qt version: 5.15.2
+00:00:00.767814 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.791773 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.791814 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:07.195313 GUI: UIMediumEnumerator: Medium with key={{bbf18052-c62e-49e3-b734-3a7db71ee05d}} created
+00:06:07.268439 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:20.532949 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:27.331221 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:55:52.261838 GUI: UICommon: Handling aboutToQuit request..
+00:55:53.173236 GUI: UICommon: aboutToQuit request handled!
